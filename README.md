@@ -68,7 +68,11 @@ status:      "SYS://ONLINE — wake up, Neo"
 | [agentmujo-skills-packs](https://github.com/xnet-ba/agentmujo-skills-packs) | Skills PACKs — gotovi paketi za OpenCode |
 | [AgentMujoJob](https://github.com/xnet-ba/AgentMujoJob) | Open-source AI asistent za pronalazak posla |
 
-<img width="100%" src="https://raw.githubusercontent.com/xnet-ba/xnet-ba/output/snake.svg" alt="contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xnet-ba/xnet-ba/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnet-ba/xnet-ba/output/snake-light.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/xnet-ba/xnet-ba/output/snake.svg" alt="contribution snake"/>
+</picture>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
