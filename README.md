@@ -70,14 +70,16 @@ status:      "SYS://ONLINE — wake up, Neo"
 
 ### > flagship repos_
 
-| Repo | Opis | Stars |
+| Repo | Stars | Forks |
 |---|---|---|
-| [mujofix](https://github.com/xnet-ba/mujofix) | AI mehanicar za Windows — sken, plan, popravka, rollback | ![stars](https://img.shields.io/github/stars/xnet-ba/mujofix?style=flat-square&color=00FF41&labelColor=000000) |
-| [mujomemory](https://github.com/xnet-ba/mujomemory) | Persistent memory infrastruktura za AI agente | ![stars](https://img.shields.io/github/stars/xnet-ba/mujomemory?style=flat-square&color=00FF41&labelColor=000000) |
-| [agentmujo-training](https://github.com/xnet-ba/agentmujo-training) | Fine-tuning malih bosanskih modela + function calling | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-training?style=flat-square&color=00FF41&labelColor=000000) |
-| [agentmujo-skills-hub](https://github.com/xnet-ba/agentmujo-skills-hub) | Skills hub — kolekcija AgentMujo vjestina | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-skills-hub?style=flat-square&color=00FF41&labelColor=000000) |
-| [agentmujo-skills-packs](https://github.com/xnet-ba/agentmujo-skills-packs) | Skills PACKs — gotovi paketi za OpenCode | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-skills-packs?style=flat-square&color=00FF41&labelColor=000000) |
-| [AgentMujoJob](https://github.com/xnet-ba/AgentMujoJob) | Open-source AI asistent za pronalazak posla | ![stars](https://img.shields.io/github/stars/xnet-ba/AgentMujoJob?style=flat-square&color=00FF41&labelColor=000000) |
+| [mujofix](https://github.com/xnet-ba/mujofix) — AI mehanicar za Windows | ![stars](https://img.shields.io/github/stars/xnet-ba/mujofix?style=flat-square&color=00FF41&labelColor=000000) | ![forks](https://img.shields.io/github/forks/xnet-ba/mujofix?style=flat-square&color=00FF41&labelColor=000000) |
+| [mujomemory](https://github.com/xnet-ba/mujomemory) — persistent memory za AI agente | ![stars](https://img.shields.io/github/stars/xnet-ba/mujomemory?style=flat-square&color=00FF41&labelColor=000000) | ![forks](https://img.shields.io/github/forks/xnet-ba/mujomemory?style=flat-square&color=00FF41&labelColor=000000) |
+| [agentmujo-training](https://github.com/xnet-ba/agentmujo-training) — fine-tuning malih bosanskih modela | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-training?style=flat-square&color=00FF41&labelColor=000000) | ![forks](https://img.shields.io/github/forks/xnet-ba/agentmujo-training?style=flat-square&color=00FF41&labelColor=000000) |
+| [agentmujo-skills-hub](https://github.com/xnet-ba/agentmujo-skills-hub) — skills registry + pretraga | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-skills-hub?style=flat-square&color=00FF41&labelColor=000000) | ![forks](https://img.shields.io/github/forks/xnet-ba/agentmujo-skills-hub?style=flat-square&color=00FF41&labelColor=000000) |
+| [agentmujo-skills-packs](https://github.com/xnet-ba/agentmujo-skills-packs) — 22 Skills PACKa | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-skills-packs?style=flat-square&color=00FF41&labelColor=000000) | ![forks](https://img.shields.io/github/forks/xnet-ba/agentmujo-skills-packs?style=flat-square&color=00FF41&labelColor=000000) |
+| [AgentMujoJob](https://github.com/xnet-ba/AgentMujoJob) — AI asistent za pronalazak posla | ![stars](https://img.shields.io/github/stars/xnet-ba/AgentMujoJob?style=flat-square&color=00FF41&labelColor=000000) | ![forks](https://img.shields.io/github/forks/xnet-ba/AgentMujoJob?style=flat-square&color=00FF41&labelColor=000000) |
+
+[![More Repos](https://img.shields.io/badge/-More_Repos-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/xnet-ba?tab=repositories)
 
 <details>
 <summary><b>&gt; svi public repoi_ (14)</b></summary>
