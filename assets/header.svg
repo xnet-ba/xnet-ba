@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="t d" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+  <title id="t">XNET-BA</title>
+  <desc id="d">xnet-ba. Open-source AI agents from BiH. AgentMujo ecosystem. Matrix online.</desc>
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#020a02"/>
+      <stop offset="0.55" stop-color="#010503"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.46" r="0.62">
+      <stop offset="0" stop-color="#00FF41" stop-opacity="0.16"/>
+      <stop offset="0.45" stop-color="#00FF41" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.78">
+      <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.6"/>
+    </radialGradient>
+    <linearGradient id="sweepBand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.38" stop-color="#000000"/>
+      <stop offset="0.50" stop-color="#ffffff"/>
+      <stop offset="0.62" stop-color="#000000"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <mask id="sweepMask" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="260">
+      <rect x="0" y="0" width="300" height="260" fill="url(#sweepBand)">
+        <animateTransform attributeName="transform" type="translate" values="-320 0; 960 0; 960 0" keyTimes="0; 0.42; 1" dur="5.2s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF41" stop-opacity="0"/>
+      <stop offset="0.16" stop-color="#00FF41" stop-opacity="0.85"/>
+      <stop offset="0.50" stop-color="#39FF14" stop-opacity="0.95"/>
+      <stop offset="0.84" stop-color="#008F11" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#008F11" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ruleHi" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="ruleClip">
+      <rect x="196" y="162" width="508" height="3" rx="1.5"/>
+    </clipPath>
+    <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="4" height="1" fill="#000000"/>
+    </pattern>
+    <filter id="glow" x="-25%" y="-60%" width="150%" height="220%">
+      <feGaussianBlur stdDeviation="4.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowHot" x="-25%" y="-60%" width="150%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-40%" y="-120%" width="180%" height="340%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="900" height="260" fill="url(#plate)"/>
+  <rect x="0" y="0" width="900" height="260" fill="url(#halo)"/>
+  <!-- matrix rain columns -->
+  <g font-size="13" text-anchor="middle" opacity="0.5">
+    <text x="60" y="0" fill="#00FF41" opacity="0.35">01<tspan dx="0" dy="0">ﾊﾐﾋｰｳ</tspan><animateTransform attributeName="transform" type="translate" values="0 -60; 0 300" dur="7s" repeatCount="indefinite"/></text>
+    <text x="120" y="0" fill="#39FF14" opacity="0.3">10<tspan>ｼｻｷｽｹ</tspan><animateTransform attributeName="transform" type="translate" values="0 -100; 0 300" dur="9s" repeatCount="indefinite"/></text>
+    <text x="200" y="0" fill="#00FF41" opacity="0.28">01<tspan>ﾅﾆﾇﾈﾉ</tspan><animateTransform attributeName="transform" type="translate" values="0 -40; 0 300" dur="6s" repeatCount="indefinite"/></text>
+    <text x="700" y="0" fill="#00FF41" opacity="0.3">10<tspan>ｱｲｳｴｵ</tspan><animateTransform attributeName="transform" type="translate" values="0 -80; 0 300" dur="8s" repeatCount="indefinite"/></text>
+    <text x="780" y="0" fill="#39FF14" opacity="0.28">01<tspan>ｶｷｸｹｺ</tspan><animateTransform attributeName="transform" type="translate" values="0 -120; 0 300" dur="10s" repeatCount="indefinite"/></text>
+    <text x="840" y="0" fill="#00FF41" opacity="0.32">10<tspan>ｻｼｽｾｿ</tspan><animateTransform attributeName="transform" type="translate" values="0 -50; 0 300" dur="7.5s" repeatCount="indefinite"/></text>
+  </g>
+  <!-- wordmark base -->
+  <text x="450" y="132" text-anchor="middle" textLength="470" lengthAdjust="spacing" font-size="68" font-weight="700" fill="#e8ffe8" filter="url(#glow)">XNET-BA</text>
+  <!-- wordmark green sweep -->
+  <g mask="url(#sweepMask)">
+    <text x="450" y="132" text-anchor="middle" textLength="470" lengthAdjust="spacing" font-size="68" font-weight="700" fill="#CCFFCC" filter="url(#glowHot)">XNET-BA</text>
+  </g>
+  <rect x="196" y="162" width="508" height="3" rx="1.5" fill="url(#rule)"/>
+  <g clip-path="url(#ruleClip)">
+    <rect x="0" y="162" width="150" height="3" fill="url(#ruleHi)" opacity="0.9">
+      <animateTransform attributeName="transform" type="translate" values="36 0; 720 0" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <!-- subtitle -->
+  <text x="239" y="194" textLength="422" lengthAdjust="spacing" xml:space="preserve" font-size="15" filter="url(#glowSoft)"><tspan fill="#00FF41">&gt;</tspan><tspan fill="#9EFF9E"> OPEN-SOURCE AI AGENTS :: BiH // MATRIX</tspan></text>
+  <rect x="666" y="181" width="9" height="16" fill="#00FF41">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+  <!-- status rail -->
+  <text x="56" y="36" font-size="11" letter-spacing="1.6" fill="#00FF41" opacity="0.72">XNET-BA.EXE</text>
+  <circle cx="746" cy="32" r="3.4" fill="#00FF41">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="746" cy="32" r="3.4" fill="none" stroke="#00FF41" stroke-width="1">
+    <animate attributeName="r" values="3.4;9;3.4" dur="1.9s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.55;0;0.55" dur="1.9s" repeatCount="indefinite"/>
+  </circle>
+  <text x="844" y="36" text-anchor="end" textLength="84" lengthAdjust="spacing" font-size="11" fill="#00FF41" opacity="0.85">SYS://ONLINE</text>
+  <text x="56" y="234" font-size="11" letter-spacing="1.6" fill="#8b949e" opacity="0.8">LOC: SARAJEVO.BiH</text>
+  <text x="844" y="234" text-anchor="end" font-size="11" letter-spacing="1.6" fill="#00FF41" opacity="0.8">BUILD//2026</text>
+  <!-- corner brackets -->
+  <g fill="none" stroke="#00FF41" stroke-width="2" stroke-linecap="square">
+    <animate attributeName="stroke-opacity" values="0.22;0.85;0.22" dur="2.8s" repeatCount="indefinite"/>
+    <path d="M16 40 L16 16 L40 16"/>
+    <path d="M860 16 L884 16 L884 40"/>
+    <path d="M884 220 L884 244 L860 244"/>
+    <path d="M40 244 L16 244 L16 220"/>
+  </g>
+  <g opacity="0.32">
+    <rect x="0" y="-9" width="900" height="278" fill="url(#scan)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 3" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="0" y="0" width="900" height="260" fill="url(#vignette)"/>
+  <rect x="0.5" y="0.5" width="899" height="259" fill="none" stroke="#0a2a0a" stroke-width="1"/>
+</svg>
