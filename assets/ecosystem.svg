@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-labelledby="t d" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+  <title id="t">ecosystem</title>
+  <desc id="d">AgentMujo stack flow: skills, memory, models, apps.</desc>
+  <defs>
+    <filter id="eglow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="900" height="140" rx="12" fill="#020a02"/>
+  <text x="28" y="26" font-size="11" letter-spacing="2" fill="#00FF41" opacity="0.7">AGENTMUJO.STACK</text>
+  <text x="872" y="26" text-anchor="end" font-size="11" letter-spacing="2" fill="#00FF41" opacity="0.5">SYS://FLOW</text>
+  <g font-size="17" font-weight="700" text-anchor="middle" filter="url(#eglow)">
+    <g>
+      <rect x="28" y="44" width="172" height="70" rx="10" fill="#031003" stroke="#00FF41" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="1.6s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <text x="114" y="74" fill="#E8FFE8">SKILLS</text>
+      <text x="114" y="96" font-size="11" font-weight="400" fill="#00FF41" opacity="0.8">opencode packs</text>
+    </g>
+    <g>
+      <rect x="248" y="44" width="172" height="70" rx="10" fill="#031003" stroke="#00FF41" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="334" y="74" fill="#E8FFE8">MEMORY</text>
+      <text x="334" y="96" font-size="11" font-weight="400" fill="#00FF41" opacity="0.8">sqlite + fts5</text>
+    </g>
+    <g>
+      <rect x="468" y="44" width="172" height="70" rx="10" fill="#031003" stroke="#00FF41" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="554" y="74" fill="#E8FFE8">MODELS</text>
+      <text x="554" y="96" font-size="11" font-weight="400" fill="#00FF41" opacity="0.8">bosanski SLM</text>
+    </g>
+    <g>
+      <rect x="688" y="44" width="184" height="70" rx="10" fill="#031003" stroke="#00FF41" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="1.6s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="780" y="74" fill="#E8FFE8">APPS</text>
+      <text x="780" y="96" font-size="11" font-weight="400" fill="#00FF41" opacity="0.8">mujofix + job</text>
+    </g>
+  </g>
+  <g stroke="#39FF14" stroke-width="2.5" stroke-dasharray="8 6" opacity="0.9">
+    <line x1="200" y1="79" x2="248" y2="79">
+      <animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="420" y1="79" x2="468" y2="79">
+      <animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="640" y1="79" x2="688" y2="79">
+      <animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="139" rx="12" fill="none" stroke="#0a2a0a" stroke-width="1"/>
+</svg>

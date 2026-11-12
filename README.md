@@ -10,6 +10,7 @@
 [![Training](https://img.shields.io/badge/TRAINING-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41)](https://github.com/xnet-ba/agentmujo-training)
 [![All repos](https://img.shields.io/badge/ALL_REPOS-00FF41?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/xnet-ba?tab=repositories)
 ![Visitors](https://komarev.com/ghpvc/?username=xnet-ba&color=00FF41&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/xnet-ba?style=flat-square&color=00FF41&labelColor=000000)](https://github.com/xnet-ba?tab=followers)
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -33,6 +34,16 @@ status:      "SYS://ONLINE — wake up, Neo"
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
+
+<a href="https://github.com/xnet-ba?tab=repositories"><img src="./assets/terminal.svg" width="100%" alt="terminal session"/></a>
+
+</div>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<div align="center">
+
+<a href="https://github.com/xnet-ba/agentmujo-skills-hub"><img src="./assets/ecosystem.svg" width="100%" alt="AgentMujo stack flow"/></a>
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,bash,fastapi,flask,react,nextjs,nodejs,tailwind,vite&theme=dark" alt="core"/>
 <br/>
@@ -59,14 +70,28 @@ status:      "SYS://ONLINE — wake up, Neo"
 
 ### > flagship repos_
 
-| Repo | Opis |
-|---|---|
-| [mujofix](https://github.com/xnet-ba/mujofix) | AI mehanicar za Windows — sken, plan, popravka, rollback |
-| [mujomemory](https://github.com/xnet-ba/mujomemory) | Persistent memory infrastruktura za AI agente |
-| [agentmujo-training](https://github.com/xnet-ba/agentmujo-training) | Fine-tuning malih bosanskih modela + function calling |
-| [agentmujo-skills-hub](https://github.com/xnet-ba/agentmujo-skills-hub) | Skills hub — kolekcija AgentMujo vjestina |
-| [agentmujo-skills-packs](https://github.com/xnet-ba/agentmujo-skills-packs) | Skills PACKs — gotovi paketi za OpenCode |
-| [AgentMujoJob](https://github.com/xnet-ba/AgentMujoJob) | Open-source AI asistent za pronalazak posla |
+| Repo | Opis | Stars |
+|---|---|---|
+| [mujofix](https://github.com/xnet-ba/mujofix) | AI mehanicar za Windows — sken, plan, popravka, rollback | ![stars](https://img.shields.io/github/stars/xnet-ba/mujofix?style=flat-square&color=00FF41&labelColor=000000) |
+| [mujomemory](https://github.com/xnet-ba/mujomemory) | Persistent memory infrastruktura za AI agente | ![stars](https://img.shields.io/github/stars/xnet-ba/mujomemory?style=flat-square&color=00FF41&labelColor=000000) |
+| [agentmujo-training](https://github.com/xnet-ba/agentmujo-training) | Fine-tuning malih bosanskih modela + function calling | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-training?style=flat-square&color=00FF41&labelColor=000000) |
+| [agentmujo-skills-hub](https://github.com/xnet-ba/agentmujo-skills-hub) | Skills hub — kolekcija AgentMujo vjestina | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-skills-hub?style=flat-square&color=00FF41&labelColor=000000) |
+| [agentmujo-skills-packs](https://github.com/xnet-ba/agentmujo-skills-packs) | Skills PACKs — gotovi paketi za OpenCode | ![stars](https://img.shields.io/github/stars/xnet-ba/agentmujo-skills-packs?style=flat-square&color=00FF41&labelColor=000000) |
+| [AgentMujoJob](https://github.com/xnet-ba/AgentMujoJob) | Open-source AI asistent za pronalazak posla | ![stars](https://img.shields.io/github/stars/xnet-ba/AgentMujoJob?style=flat-square&color=00FF41&labelColor=000000) |
+
+<details>
+<summary><b>&gt; svi public repoi_ (14)</b></summary>
+
+- [agentmujo-git-auditor](https://github.com/xnet-ba/agentmujo-git-auditor) — nezavisni audit repozitorija (security, arhitektura, testovi, performanse)
+- [agentmujo-mddr-shield](https://github.com/xnet-ba/agentmujo-mddr-shield) — operativni security-pack iz MDDR 2026 (4 skills, 2 CLI, MCP)
+- [agentmujo-security-auditor](https://github.com/xnet-ba/agentmujo-security-auditor) — OWASP GenAI LLM Top 10 audit + fix-plan generator
+- [ascii-motion-studio](https://github.com/xnet-ba/ascii-motion-studio) — ASCII image/video/animation generator
+- [temporis-procurement-intelligence](https://github.com/xnet-ba/temporis-procurement-intelligence) — modularni AI ekosistem za javnu nabavu u RH
+- [hestia-cp-skill](https://github.com/xnet-ba/hestia-cp-skill) — OpenCode skill za Hestia CP upravljanje
+- [euact](https://github.com/xnet-ba/euact) — OpenCode skill za EU AI Act Article 4 (AI literacy)
+- [mujopresa](https://github.com/xnet-ba/mujopresa) — eksperimentalni lossless kompresor (Python)
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xnet-ba/xnet-ba/output/snake-dark.svg"/>

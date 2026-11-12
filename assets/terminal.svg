@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="t d" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+  <title id="t">terminal</title>
+  <desc id="d">visitor@matrix session: whoami, mission, ship status.</desc>
+  <defs>
+    <linearGradient id="tplate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#031003"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <pattern id="tscan" width="4" height="3" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="4" height="1" fill="#000000"/>
+    </pattern>
+    <filter id="tglow" x="-25%" y="-60%" width="150%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="900" height="320" rx="12" fill="url(#tplate)"/>
+  <rect x="0" y="0" width="900" height="38" rx="12" fill="#061806"/>
+  <rect x="0" y="26" width="900" height="12" fill="#061806"/>
+  <circle cx="28" cy="19" r="7" fill="#FF5F57"/>
+  <circle cx="50" cy="19" r="7" fill="#FEBC2E"/>
+  <circle cx="72" cy="19" r="7" fill="#28C840"/>
+  <text x="450" y="24" text-anchor="middle" font-size="13" letter-spacing="2" fill="#00FF41" opacity="0.8">visitor@matrix: ~</text>
+  <text x="872" y="24" text-anchor="end" font-size="11" fill="#00FF41" opacity="0.6">zsh</text>
+  <g font-size="16" filter="url(#tglow)">
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.02;0.93;0.97;1" dur="20s" repeatCount="indefinite"/>
+      <text x="36" y="82"><tspan fill="#00FF41">visitor@matrix:~$ </tspan><tspan fill="#E8FFE8">whoami</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.10;0.93;0.97;1" dur="20s" repeatCount="indefinite"/>
+      <text x="36" y="114"><tspan fill="#39FF14">xnet-ba</tspan><tspan fill="#9EFF9E"> -- open-source AI agenti iz BiH</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.25;0.93;0.97;1" dur="20s" repeatCount="indefinite"/>
+      <text x="36" y="156"><tspan fill="#00FF41">visitor@matrix:~$ </tspan><tspan fill="#E8FFE8">cat mission.txt</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.33;0.93;0.97;1" dur="20s" repeatCount="indefinite"/>
+      <text x="36" y="188"><tspan fill="#9EFF9E">lokalni - privatni - provjerljivi agenti</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.48;0.93;0.97;1" dur="20s" repeatCount="indefinite"/>
+      <text x="36" y="230"><tspan fill="#00FF41">visitor@matrix:~$ </tspan><tspan fill="#E8FFE8">./ship.sh --all</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.56;0.93;0.97;1" dur="20s" repeatCount="indefinite"/>
+      <text x="36" y="262"><tspan fill="#00FF41">[ok]</tspan><tspan fill="#9EFF9E"> memory  </tspan><tspan fill="#00FF41">[ok]</tspan><tspan fill="#9EFF9E"> skills  </tspan><tspan fill="#00FF41">[ok]</tspan><tspan fill="#9EFF9E"> models  </tspan><tspan fill="#00FF41">[ok]</tspan><tspan fill="#9EFF9E"> apps</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.93;0.97;1" dur="20s" repeatCount="indefinite"/>
+      <text x="36" y="300" fill="#00FF41">visitor@matrix:~$</text>
+      <rect x="238" y="286" width="10" height="18" fill="#00FF41">
+        <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+  <g opacity="0.25">
+    <rect x="0" y="0" width="900" height="320" rx="12" fill="url(#tscan)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="319" rx="12" fill="none" stroke="#0a2a0a" stroke-width="1"/>
+</svg>
