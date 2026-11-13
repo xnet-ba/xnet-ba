@@ -2,6 +2,8 @@
 
 <img src="./assets/header.svg" width="100%" alt="XNET-BA — open-source AI agents :: BiH // matrix"/>
 
+<img src="./assets/pirate-flag-matrix.gif" width="600" alt="Neon Matrix Pirate Flag"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=wake+up%2C+Neo...+the+Matrix+has+you;open-source+AI+agenti+iz+BiH;AgentMujo+%3A%3A+memory+%2B+skills+%2B+local+models;follow+the+white+rabbit+%3A%3A+knock%2C+knock)](https://github.com/xnet-ba)
 
 [![AgentMujo](https://img.shields.io/badge/AGENTMUJO-00FF41?style=for-the-badge&labelColor=000000)](https://github.com/xnet-ba?tab=repositories)
